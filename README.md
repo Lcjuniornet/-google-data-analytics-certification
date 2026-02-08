@@ -1,5 +1,3 @@
-# -google-data-analytics-certification
-certificação coursera
 
 # 📊 Google Data Analytics Professional Certificate
 
