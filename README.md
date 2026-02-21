@@ -74,7 +74,7 @@ O certificado é composto por 8 cursos que cobrem todo o ciclo de análise de da
 - Limpeza e análise com código
 - **Status:** ✅ Completo
 
-### ✅ Curso 8: Google Data Analytics Capstone - Complete a Case Study
+### ✅ Curso 8: TCC: Google Data Analytics Capstone - Complete a Case Study
 - Projeto completo end-to-end
 - Análise de 5 milhões de registros
 - Recomendações estratégicas com ROI
@@ -95,7 +95,7 @@ Como projeto final, realizei análise completa de dados de bike-share para respo
 - **$2.6M** de impacto projetado Ano 1
 - **ROI 4:1** nas recomendações estratégicas
 
-### 🔗 Portfolio Completo
+### 🔗 Portfolio Completo TCC:
 
 📁 **[Ver Projeto Cyclistic →](https://github.com/Lcjuniornet/TCC-de-an-lise-de-dados-do-Google.git)**
 
@@ -112,13 +112,11 @@ Inclui:
 
 ```
 Duração oficial: 6 meses (média)
-Minha duração: 11 dias ⚡
-Velocidade: 5x mais rápido
+Minha duração: 3 meses⚡
 Média de notas: 96%
 Cursos completados: 8/8 (100%)
 Projetos práticos: 20+
-Horas totais: ~35h
-Consistência: 11/11 dias (streak completo)
+Horas totais: ~35h 
 ```
 
 ---
@@ -128,13 +126,11 @@ Consistência: 11/11 dias (streak completo)
 ### Linguagens
 - Python 3.9+
 - SQL (MySQL, PostgreSQL, BigQuery)
-- R
 
 ### Bibliotecas Python
 - Pandas - Manipulação de dados
 - NumPy - Computação numérica
 - Matplotlib - Visualizações
-- Seaborn - Gráficos estatísticos
 
 ### Ferramentas
 - Tableau - Business Intelligence
@@ -182,7 +178,6 @@ Este certificado me capacitou para:
 ![Coursera](https://img.shields.io/badge/Coursera-Certificate-0056D2?logo=coursera&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-Expert-CC2927?logo=microsoft-sql-server&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-Pandas-3776AB?logo=python&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-Certified-E97627?logo=tableau&logoColor=white)
 
 ---
 
@@ -194,6 +189,7 @@ Este certificado me capacitou para:
 - [x] Case studies reais
 - [x] Notebooks interativos
 - [x] Datasets públicos (Kaggle, Google, Divvy)
+- [x] Notebooklm (Google)
 
 ### Comunidade
 - [Google Data Analytics Community](https://www.coursera.org/professional-certificates/google-data-analytics)
@@ -208,13 +204,13 @@ Este certificado me capacitou para:
 Master Data Owner | Supply Chain Analytics | Data Governance
 
 - 🎓 Google Data Analytics Professional Certificate
-- 💼 8 anos experiência em Supply Chain
+- 💼 3 anos experiência em Supply Chain
 - 🎯 Especialização: Master Data Management e Governança de Dados
 - 🐍 Stack: Python, SQL, Power BI, Excel
 - 📊 Foco: Qualidade de dados e análise supply chain
 
 ### Conecte-se
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-carlos-silva-junior-a38922219/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lcjuniornet)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://lcjuniornet.github.io)
 
